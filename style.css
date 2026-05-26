@@ -16,8 +16,8 @@
 
 body{
     color: var(--branco);
-    background-color: var(--cor-de-fundo);
-    font-family: var(--roboto);
+    background-color: var(#33045f);
+    font-family: var(#553b77);
 }
 
 .titulo-principal{
